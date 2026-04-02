@@ -8,10 +8,9 @@ Repositori ini berisi *source code* dan dokumentasi untuk pemenuhan Tugas Postte
 
 | Nama Lengkap | NIM |
 | :--- | :--- |
-| [Nama Anggota 1] | [NIM Anggota 1] |
-| [Nama Anggota 2] | [NIM Anggota 2] |
-| [Nama Anggota 3] | [NIM Anggota 3] |
-| [Nama Anggota 4] | [NIM Anggota 4] |
+| [Rifqi Ramadhan] | [2309106007] |
+| [Irvan Nurdiansyah] | [23091084] |
+| [Achmad Zidan Al-Baihaqi] | [2309106070] |
 
 ---
 
@@ -38,11 +37,10 @@ Sistem ini memastikan perangkat terhubung secara *real-time* ke jaringan Wi-Fi u
 
 1. 1x Board Mikrokontroler ([ESP32 / NodeMCU ESP8266])
 2. 1x Sensor Gas (MQ Series, misal: MQ-2 / MQ-135)
-3. 3x LED (Warna bebas, disarankan Hijau, Kuning, Merah)
-4. 3x Resistor (220 Ohm / 330 Ohm) untuk LED
-5. Kabel Jumper (Male-to-Male / Male-to-Female secukupnya)
-6. 1x Breadboard
-7. Koneksi Wi-Fi dan Platform IoT ([Thinger.io / Blynk / Ubidots])
+3. 3x LED (Hijau, Kuning, Merah)
+5. Kabel Jumper (Male-to-Male secukupnya)
+6. 2x Breadboard
+7. Koneksi Wi-Fi dan Platform IoT ([Blynk])
 
 ---
 
