@@ -65,6 +65,4 @@ Sistem ini memastikan perangkat terhubung secara *real-time* ke jaringan Wi-Fi u
 
 Berikut adalah video demonstrasi dari proyek kami yang memperlihatkan anggota kelompok, rangkaian *hardware*, *source code*, dan hasil monitoring/kontrol pada platform IoT:
 
-[![Video Demo](https://img.shields.io/badge/YouTube-Tonton_Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](LINK_YOUTUBE_KALIAN_DISINI)
-
-*(Ganti `LINK_YOUTUBE_KALIAN_DISINI` dengan link video YouTube kelompokmu)*
+[![Video Demo](https://img.shields.io/badge/YouTube-Tonton_Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Z9vJUIW4ca0?si=3dsvL6wt-LrT72V8)
