@@ -56,7 +56,8 @@ Sistem ini memastikan perangkat terhubung secara *real-time* ke jaringan Wi-Fi u
 
 ## 🔌 Board Schematic
 
-![Board Schematic](link_gambar_schematic_kalian_disini.png)
+![Board Schematic](![WhatsApp Image 2026-04-04 at 11 28 29](https://github.com/user-attachments/assets/81a49173-5078-4c78-adb4-fcf1a1e3c4d4)
+)
 
 
 ---
