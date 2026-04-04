@@ -9,7 +9,7 @@ Repositori ini berisi *source code* dan dokumentasi untuk pemenuhan Tugas Postte
 | Nama Lengkap | NIM |
 | :--- | :--- |
 | [Rifqi Ramadhan] | [2309106007] |
-| [Irvan Nurdiansyah] | [23091084] |
+| [Irvan Nurdiansyah] | [2309106084] |
 | [Achmad Zidan Al-Baihaqi] | [2309106070] |
 
 ---
@@ -56,9 +56,14 @@ Sistem ini memastikan perangkat terhubung secara *real-time* ke jaringan Wi-Fi u
 
 ## 🔌 Board Schematic
 
-![Board Schematic](![WhatsApp Image 2026-04-04 at 11 28 29](https://github.com/user-attachments/assets/81a49173-5078-4c78-adb4-fcf1a1e3c4d4)
-)
+![WhatsApp Image 2026-04-04 at 11 28 29](https://github.com/user-attachments/assets/81a49173-5078-4c78-adb4-fcf1a1e3c4d4)
 
+| Komponen | Pin Komponen | Pin Board |
+| :--- | :--- | :--- |
+| Sensor MQ (Gas) | Analog Out | 4 |
+| LED 1 | Anoda (+) | 15 |
+| LED 2 | Anoda (+) | 16 |
+| LED 3 | Anoda (+) | 17 |
 
 ---
 
